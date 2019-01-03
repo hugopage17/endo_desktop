@@ -1,0 +1,22 @@
+html{
+  font-family: 'Roboto', sans-serif;
+  background-color: white;
+  text-align: center;
+}
+
+html body{
+  margin: 0;
+  padding: 0;
+}
+
+#header{
+  background-color: black;
+  padding: 20px;
+  width:100%;
+  margin: 0;
+}
+
+#title{
+  font-size: 38px;
+  color:white;
+}
